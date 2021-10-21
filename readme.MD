@@ -8,6 +8,6 @@ O resultado é um dataset com as informações que são necessárias para uma an
 
 ## Sergio Siqueira
 
-| [<img src="https://avatars2.githubusercontent.com/u/2254731?s=460&u=0ba16a79456c2f250e7579cb388fa18c5c2d7d65&v=4" width="75px;"/>](https://github.com/snsergio) |
+| [<img src="https://github.com/snsergio/monitor/blob/main/avatar.png" width="75px;"/>](https://github.com/snsergio) |
 | :-: |
 |[Sergio Siqueira](https://github.com/snsergio)|
